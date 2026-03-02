@@ -19,7 +19,7 @@
 ## About Me
 I build practical, user-focused software and enjoy turning ideas into reliable products.
 
-- Strong foundation in DSA and core computer science
+
 - Hands-on with full-stack and backend project development
 - Prefer clean architecture, maintainable code, and shipping real outcomes
 - Looking for `SDE Internships` and `Full-Time Software Engineering Roles`
@@ -47,9 +47,6 @@ I build practical, user-focused software and enjoy turning ideas into reliable p
 
 ---
 
-## Featured Projects
-Pin your best repositories on your profile to highlight:
-
 - End-to-end full-stack builds
 - Backend-heavy systems with APIs and databases
 - Problem-solving and optimization projects
@@ -59,17 +56,12 @@ Pin your best repositories on your profile to highlight:
 ## Connect With Me
 <div align="center">
 
-<a href="https://github.com/amulyabhardwaj007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-amulyabhardwaj007-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://www.linkedin.com/in/amulyabhardwaj007" target="_blank">
+
+<a href="https://www.linkedin.com/in/amulya-bhardwaj-09a334265/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Amulya%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:amulyabhardwaj007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-amulyabhardwaj007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://x.com/amulyabhardwaj07" target="_blank">
-  <img src="https://img.shields.io/badge/X-%40amulyabhardwaj07-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
 </a>
 
 </div>
