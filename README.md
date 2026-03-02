@@ -1,21 +1,16 @@
 <div align="center">
 
 # Amulya Bhardwaj
-### Final Year Student at IIIT Ranchi � Software Engineering Aspirant
+### Final Year Student at IIIT Ranchi | Software Engineering Aspirant
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+clean+and+impactful+software;Backend+%7C+Full+Stack+%7C+Problem+Solving;Open+to+SDE+Internships+and+Full-Time+Roles" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=900&center=true&vCenter=true&width=780&lines=Code.+Create.+Ship.;Backend+Builder+%7C+Full-Stack+Explorer;Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/amulyabhardwaj007">
-    <img src="https://komarev.com/ghpvc/?username=amulyabhardwaj007&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/amulyabhardwaj007?tab=followers">
-    <img src="https://img.shields.io/github/followers/amulyabhardwaj007?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0ea5e9?style=for-the-badge" alt="Focus badge" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Profile%20Views-Active-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="views" />
+<img src="https://img.shields.io/github/followers/amulyabhardwaj007?label=Followers&style=for-the-badge&color=2563eb" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-f97316?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Vibe-Funky%20%2B%20Professional-ec4899?style=for-the-badge" alt="vibe" />
 
 </div>
 
@@ -34,7 +29,7 @@ I build practical, user-focused software and enjoy turning ideas into reliable p
 ## Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" alt="tech stack" />
 
 </div>
 
@@ -43,19 +38,17 @@ I build practical, user-focused software and enjoy turning ideas into reliable p
 ## GitHub Analytics
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amulyabhardwaj007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyabhardwaj007&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amulyabhardwaj007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyabhardwaj007&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyabhardwaj007&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyabhardwaj007&theme=tokyonight&hide_border=true" alt="github streak" />
 
 </div>
 
 ---
 
 ## Featured Projects
-<p>
-Pin your best repositories to your GitHub profile to highlight:
-</p>
+Pin your best repositories on your profile to highlight:
 
 - End-to-end full-stack builds
 - Backend-heavy systems with APIs and databases
@@ -63,29 +56,28 @@ Pin your best repositories to your GitHub profile to highlight:
 
 ---
 
-## Let's Connect
-- LinkedIn: `Add your LinkedIn URL`
-- Email: `Add your professional email`
-- Resume: `Add your resume link`
+## Connect With Me
+<div align="center">
+
+<a href="https://github.com/amulyabhardwaj007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-amulyabhardwaj007-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+<a href="https://www.linkedin.com/in/amulyabhardwaj007" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Amulya%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:amulyabhardwaj007@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-amulyabhardwaj007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://x.com/amulyabhardwaj07" target="_blank">
+  <img src="https://img.shields.io/badge/X-%40amulyabhardwaj07-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
 ### Keep building. Keep learning. Keep shipping.
 
 </div>
-
-
-<!--
-**amulyabhardwaj007/amulyabhardwaj007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
